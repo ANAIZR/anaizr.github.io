@@ -1,0 +1,40 @@
+.nombre-titulo{
+    font-family: 'Satisfy', cursive;
+}
+.letraNav {
+    font-style: italic;
+}
+.frase{
+    font-family: 'Satisfy', cursive;
+    font-size: 24px;
+    color: white;
+}
+.sobreMi {
+    position: relative;
+    font-family: 'Satisfy', cursive;
+    color: white;
+    margin-top: 10px;
+    font-size: 68px;
+}
+
+
+.carousel-item {
+    height: 200vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+  }
+.seccion {
+    background-color: rgba(0, 0, 0, 0.932);
+    width: 100%;
+    margin-left: auto;
+    margin-top: auto;
+    /*padding-bottom: 8rem;*/
+}
+.parrafo{
+    color: white;
+}
